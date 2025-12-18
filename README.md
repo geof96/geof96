@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Co-founder for AI-Dev Solutions ApS 🚀<br><br>My team at [AIDev Solutions](https://www.aidevsolutions.dk/](https://www.aidevsolutions.dk/aboutUs.html))<br><br>I am currently working on our SBM-project 🛠️<br><br>I am graduating as a AP-Graduate in Computer Science 🎓<br><br>I want to specialize myself in CyberSecurity 🔐
+I am a Co-founder for AI-Dev Solutions ApS 🚀<br><br>My team at [AIDev Solutions]((https://www.aidevsolutions.dk/aboutUs.html))<br><br>I am currently working on our SBM-project 🛠️<br><br>I am graduating as a AP-Graduate in Computer Science 🎓<br><br>I want to specialize myself in CyberSecurity 🔐
 
 
 ## 🌐 Socials:
